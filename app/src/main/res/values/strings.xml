@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tap Tip</string>
+
+    <string name="facebook_app_id">352055362933152</string>
+    <string name="fb_login_protocol_scheme">fb352055362933152</string>
+
+
+    <string name="login">Login</string>
+
+</resources>

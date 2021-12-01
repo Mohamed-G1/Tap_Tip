@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/TapTip/app/src/main/res/drawable/edit_text_layout.xml" value="0.26296296296296295" />
+        <entry key="..\:/AndroidProjects/TapTip/app/src/main/res/layout/activity_forget.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidProjects/TapTip/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/TapTip/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TapTip/app/src/main/res/layout/activity_verification.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
